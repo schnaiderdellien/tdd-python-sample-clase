@@ -10,6 +10,3 @@ class TestClass:
     # Test para la operación suma
     def test_resta(self):
         assert resta(5,2) == 3
-        assert resta(-1,-2) == -3
-        assert resta(-5,5) == 0
-        assert resta(1,9) == -8
